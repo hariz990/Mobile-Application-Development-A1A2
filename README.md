@@ -2,4 +2,12 @@
 Mobile Application Development Assignment 1 and Assignment 2 combined
 
 Assignment idea: 
-Develop a movie booking application with features including an alarm to remind users about their booked movie time. 
+Develop a movie booking application with Android studio
+
+Features completed: 
+- Database 
+- Event Notification
+- Display event location on Google map
+- Network monitoring
+
+For more details of the assignment instructions and tasks, please read Assignment2_s1_2019.pdf file that is attached in this project's repository
