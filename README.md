@@ -11,3 +11,8 @@ Features completed:
 - Network monitoring
 
 For more details of the assignment instructions and tasks, please read Assignment2_s1_2019.pdf file that is attached in this project's repository
+
+Project source code can be extracted from movienightplanner(3701799).zip
+- Files were too large to be transffered from local storage to GitHub account
+
+
